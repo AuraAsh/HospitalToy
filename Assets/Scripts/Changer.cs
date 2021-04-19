@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class Changer : MonoBehaviour
@@ -23,7 +22,7 @@ public class Changer : MonoBehaviour
         bodyPart.sprite = options[currentOption];
     }
 
-    public void PreviousOption()
+    public void PreviousOption() //Funciona como backbutton, hacia atras
     {
         currentOption--;
         if (currentOption <= 0)
@@ -31,6 +30,12 @@ public class Changer : MonoBehaviour
             currentOption = options.Count - 1;
         }
 
+        bodyPart.sprite = options[currentOption];
+    }
+
+    public void Randomize() //Opciones random para personalizar el personaje
+    {
+        currentOption = Random.Range(0, options.Count - 1);
         bodyPart.sprite = options[currentOption];
     }
 }
