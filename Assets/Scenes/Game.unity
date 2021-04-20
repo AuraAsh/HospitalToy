@@ -172,7 +172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcb0de5c340e6f1418a5113dbfd9dcb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bodyPart: {fileID: 1593541664}
+  bodyPart: {fileID: 7725291507774932503}
   options:
   - {fileID: 21300000, guid: c376d5b80d02ffe4ba89fd03d60ec471, type: 3}
   - {fileID: 21300000, guid: 27fe921d9d4bdb24eb91cc1e96a04f02, type: 3}
@@ -1427,7 +1427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcb0de5c340e6f1418a5113dbfd9dcb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bodyPart: {fileID: 1428170854}
+  bodyPart: {fileID: 7725291507774932502}
   options:
   - {fileID: 21300000, guid: 215dd6c48c732d744aecd29e7fecbbfa, type: 3}
   - {fileID: 21300000, guid: 90458a12b047bb84ba77cb7ea81ba457, type: 3}
@@ -7528,12 +7528,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1379697306}
   m_CullTransparentMesh: 0
---- !u!212 &1428170854 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 212000009112913080, guid: a766a2aa73feaf74fafc40e234967d9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 7725291507774932501}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1431581830
 GameObject:
   m_ObjectHideFlags: 0
@@ -8453,12 +8447,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583943651}
   m_CullTransparentMesh: 0
---- !u!212 &1593541664 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 212000012664556886, guid: a766a2aa73feaf74fafc40e234967d9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 7725291507774932501}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1609001162
 GameObject:
   m_ObjectHideFlags: 0
@@ -11838,3 +11826,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a766a2aa73feaf74fafc40e234967d9d, type: 3}
+--- !u!212 &7725291507774932502 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7621378444324651693, guid: a766a2aa73feaf74fafc40e234967d9d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7725291507774932501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &7725291507774932503 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7621378446802520899, guid: a766a2aa73feaf74fafc40e234967d9d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7725291507774932501}
+  m_PrefabAsset: {fileID: 0}
