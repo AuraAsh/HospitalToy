@@ -1,15 +1,23 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
+public class Parameter
+{
+    public int currentOption;
+}
 public class Changer : MonoBehaviour
 {
+    public Parameter parameter;
+
     [Header ("Sprite To Change")] //Declarar una lista
     public SpriteRenderer bodyPart;
 
     [Header("Sprite To Cycle Through")]
     public List<Sprite> options = new List<Sprite>(); //Lista de sprites
 
-    private int currentOption = 0; //Opcion actual
+    [SerializeField] internal int currentOption = 0; //Opcion actual
+
    
     public void NextOption()
     {
