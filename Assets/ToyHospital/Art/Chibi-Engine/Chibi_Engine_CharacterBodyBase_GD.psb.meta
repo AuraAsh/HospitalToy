@@ -1,0 +1,2680 @@
+fileFormatVersion: 2
+guid: 75ebce06e1868784a8d87a590557d144
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Capa 55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3312
+      width: 787
+      height: 681
+    spriteID: 08d1145ecaab7e249a42ba77de4a7915
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -167, y: 2796}
+  - name: Capa 57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 1844
+      width: 416
+      height: 507
+    spriteID: ac246f546b116f749ac3e01cabb1955b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 734, y: 1152}
+  - name: Capa 56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 2718
+      width: 309
+      height: 308
+    spriteID: ce77e1fd1fbf8834993b62db40b0da4f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1300, y: 2208}
+  - name: Capa 54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 4
+      width: 777
+      height: 672
+    spriteID: ce227f2dffc04ba49973a7f09949cf9c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 920, y: -513}
+  - name: Capa 3 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2314
+      y: 1113
+      width: 13
+      height: 21
+    spriteID: 9b07dac9dc9eaad42a6a0aaae81d4cf6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1688, y: -124}
+  - name: Capa 3 - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1807
+      y: 2299
+      width: 36
+      height: 18
+    spriteID: aba95c01240666842910ccc7e6384f20
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1234, y: 1125}
+  - name: Capa 34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1516
+      y: 2299
+      width: 283
+      height: 39
+    spriteID: faa1ae8d855e82c4d82faa38b3fc4178
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1082, y: 993}
+  - name: Capa 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 1152
+      width: 422
+      height: 163
+    spriteID: 00ad608d76bebb14abadec73432d2e91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1527, y: -111}
+  - name: Capa 33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2089
+      y: 1113
+      width: 217
+      height: 31
+    spriteID: 773ac8b6db10af0449c6696c95470635
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1620, y: -188}
+  - name: Capa 32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4001
+      width: 464
+      height: 76
+    spriteID: 61ea958bd15a15f4d8275e5034f00895
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -343, y: 2700}
+  - name: Capa 31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 4001
+      width: 290
+      height: 54
+    spriteID: dbd851304757bb14d83969f2fa24c1e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 2690}
+  - name: Capa 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2785
+      y: 4
+      width: 293
+      height: 103
+    spriteID: 28d2779e5ca2cc846ad5eea8d8e64de0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2357, y: -1263}
+  - name: Capa 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 556
+      width: 384
+      height: 156
+    spriteID: f70c2956e9b89044fadcc50dff643aa6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1964, y: -707}
+  - name: Capa 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 1101
+      width: 275
+      height: 159
+    spriteID: 4567fe7afdf0af94f98ccdc594da8808
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1915, y: 414}
+  - name: Capa 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 905
+      width: 259
+      height: 188
+    spriteID: 35c363d730eb64044bde2d59b239ae5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1915, y: 236}
+  - name: Capa 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 1268
+      width: 270
+      height: 154
+    spriteID: 952cba38f6d36cc468dcd15460ad8d46
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1912, y: 579}
+  - name: Capa 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 3978
+      width: 146
+      height: 113
+    spriteID: 45b48e30d3f553b43a5e86f27423c3f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1118, y: 3326}
+  - name: Capa 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1698
+      y: 1091
+      width: 163
+      height: 89
+    spriteID: 0da8ad15bcf365d43ac2f64f9ba03b32
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 946, y: 443}
+  - name: Capa 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2617
+      y: 1268
+      width: 142
+      height: 109
+    spriteID: 0190157127c6f0044be28c2e09e36019
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1856, y: 614}
+  - name: Capa 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 3289
+      width: 129
+      height: 216
+    spriteID: 84da2e483a6f36046be7262ac8122020
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2293, y: 2689}
+  - name: Capa 40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2622
+      y: 1101
+      width: 128
+      height: 115
+    spriteID: de70acef37d77144eb3065334af464df
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2402, y: 517}
+  - name: Capa 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 3916
+      width: 124
+      height: 114
+    spriteID: 70c14de4639dc5644a38dada969e7942
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2291, y: 3314}
+  - name: Capa 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 3911
+      width: 297
+      height: 181
+    spriteID: 069fdd76b9cb1ac45bfb3780194922bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 705, y: 3263}
+  - name: Capa 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 2345
+      width: 251
+      height: 254
+    spriteID: 6d0b4484148f0b4438aaf731fb5ed698
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 429, y: 1757}
+  - name: Capa 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 720
+      width: 291
+      height: 177
+    spriteID: 380e0076aacd509448c05f60bf35f9ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1949, y: 70}
+  - name: Capa 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 3714
+      width: 96
+      height: 194
+    spriteID: 5cbbc119bb342c849bac78ddcffd8386
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2136, y: 3458}
+  - name: Capa 42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2314
+      y: 1142
+      width: 0
+      height: 0
+    spriteID: 43d4ce3a8ed19c546838410a550bc153
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1234, y: -778}
+  - name: Capa 25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1696
+      y: 1644
+      width: 91
+      height: 189
+    spriteID: 7b7676be2d835944fbde07c732fdcb70
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1321, y: 1386}
+  - name: Capa 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 1323
+      width: 189
+      height: 329
+    spriteID: 50d1b03bd4454be42bc049f8ae2fb51d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1521, y: 898}
+  - name: Capa 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 3584
+      width: 102
+      height: 386
+    spriteID: 6cbd75231f91f0140a95f09afce27690
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1523, y: 3178}
+  - name: Capa 24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1686
+      y: 3746
+      width: 183
+      height: 336
+    spriteID: 65ee38b96f96805499c408fba79503bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1326, y: 3318}
+  - name: Capa 9 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 3513
+      width: 116
+      height: 193
+    spriteID: bef82de12dcfb3148a83a5d93dc3067f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1894, y: 3250}
+  - name: Capa 27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2606
+      y: 905
+      width: 111
+      height: 187
+    spriteID: 9a983e0daac29f84eb1ff73e330d9ec5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1988, y: 640}
+  - name: Capa 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2089
+      y: 787
+      width: 208
+      height: 318
+    spriteID: d08798d413176a04ba6b90b7753168af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1583, y: 360}
+  - name: Capa 44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 787
+      width: 204
+      height: 357
+    spriteID: 5dd3f507738eaa7469d6a6bc9080985a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1400, y: 374}
+  - name: Capa 26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 3746
+      width: 208
+      height: 338
+    spriteID: cc04fdc4ed1fd1245b892d00be414076
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 966, y: 3318}
+  - name: Capa 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 3185
+      width: 305
+      height: 358
+    spriteID: 794872825fe24ae4b8b668850f2ce23a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 735, y: 2404}
+  - name: Capa 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 2806
+      width: 303
+      height: 371
+    spriteID: d6761c50fad77f74dbed2be59cedfd86
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 725, y: 2028}
+  - name: Capa 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 3551
+      width: 299
+      height: 352
+    spriteID: 8ecfb8091060fc24dbda0e2228fb8c30
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 731, y: 2767}
+  - name: Capa 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1696
+      y: 1265
+      width: 170
+      height: 371
+    spriteID: 46f62c780ff354f47a1660d43855d5e2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 597}
+  - name: Capa 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 2359
+      width: 370
+      height: 439
+    spriteID: 2d09dcc299caaa14790ecf38b1dc1657
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 809, y: 1740}
+  - name: Capa 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 1660
+      width: 166
+      height: 366
+    spriteID: d02863d177c121a4ebefd218484677f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1598, y: 989}
+  - name: Capa 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 3388
+      width: 239
+      height: 350
+    spriteID: 02b2de24b30a83243b94441c8685e296
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 892, y: 2676}
+  - name: Capa 35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 2359
+      width: 296
+      height: 351
+    spriteID: 3d2d62c108d5cb34aa71937b5bd022da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 923, y: 1684}
+  - name: Capa 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 3034
+      width: 251
+      height: 346
+    spriteID: 8e8f2646e8e45644b8c3a002b492b724
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 907, y: 2318}
+  - name: Capa 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1932
+      width: 806
+      height: 688
+    spriteID: 2680b440477dd28438a7fb5c79a85afb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -141, y: 738}
+  - name: Capa 29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 556
+      width: 454
+      height: 223
+    spriteID: d4215ae170995934690adb47f22521a6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1633, y: -969}
+  - name: Capa 28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 4
+      width: 900
+      height: 544
+    spriteID: c13b0a90340c69f4c8abb18f35e2db06
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1742, y: -1162}
+  - name: Capa 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2628
+      width: 793
+      height: 676
+    spriteID: bc2dcc0f58b1326438fe9dcfb5ee61cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -148, y: 1426}
+  - name: Capa 2 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 3312
+      width: 255
+      height: 376
+    spriteID: 9c9c1fd4a15bcff48882a47b6811bb98
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 654, y: 2486}
+  - name: Capa 29 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2322
+      y: 1142
+      width: 0
+      height: 0
+    spriteID: a04a4629120bae04597bbcf2b972b696
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1242, y: -778}
+  - name: Capa 28 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 805
+      y: 2628
+      width: 263
+      height: 429
+    spriteID: b317da8e82b80d04c9e94f0e7a0f1205
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 639, y: 1834}
+  - name: Capa 14 - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 3696
+      width: 247
+      height: 352
+    spriteID: 91569b73bbe4db348b0b02b6adf23e0f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 2849}
+  - name: Base Cabeza - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 684
+      width: 598
+      height: 573
+    spriteID: 82f7f03335fdfd44f98ac95ef8174fa1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 914, y: -405}
+  - name: color - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1092
+      y: 1265
+      width: 596
+      height: 571
+    spriteID: f6c852da129e602438f167deb9b9f5bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 913, y: 175}
+  - name: Base mano Derecho - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2638
+      y: 811
+      width: 100
+      height: 84
+    spriteID: 6e8306dff9570ce4cb06776e976d3eff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2422, y: 212}
+  - name: color - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1774
+      y: 2359
+      width: 86
+      height: 76
+    spriteID: d583d8104528d47428e00c7d2477c0c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1548, y: 1753}
+  - name: Base Brazo Derecho - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 1952
+      width: 130
+      height: 235
+    spriteID: 4a1a27eaf3e07c0419557428504dedfc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2237, y: 1304}
+  - name: color - copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 2761
+      width: 127
+      height: 233
+    spriteID: 7ac09a47bac8c654db62abceefef48f5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2236, y: 2111}
+  - name: Base Antebrazo Derecho - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 2486
+      width: 112
+      height: 267
+    spriteID: 3eacc35c2cb9d804789c742fc70e5b1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2172, y: 1687}
+  - name: color - copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1698
+      y: 684
+      width: 156
+      height: 399
+    spriteID: 8c5ea0beee226144889b9073d2338d17
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1387, y: 19}
+  - name: Base Cuerpo - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 1642
+      width: 232
+      height: 147
+    spriteID: c5014f517963b2d45afbeab5b6deb85d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2093, y: 974}
+  - name: color - copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 1797
+      width: 229
+      height: 147
+    spriteID: d4755a5b5de1450498d25994ac6892aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2091, y: 1128}
+  - name: Base Cuerpo - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1516
+      y: 1844
+      width: 254
+      height: 447
+    spriteID: 986f4a8d9cd68ad44b44d6c85dd92e5e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1121, y: 1154}
+  - name: color - copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1932
+      width: 248
+      height: 405
+    spriteID: dc06d6a2596ea5b418e9fbc1d879085e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 422, y: 1201}
+  - name: Base Pierna Izquierda - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 2678
+      width: 165
+      height: 321
+    spriteID: 675f571a129408d42b4a266bfcedc60e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1500, y: 2222}
+  - name: color - copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 3007
+      width: 161
+      height: 321
+    spriteID: c5d94f00d899ecc4c8e6cf2b05ca1310
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1497, y: 2552}
+  - name: Base Pierna Izquierda - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 2195
+      width: 106
+      height: 283
+    spriteID: 810f7194acbad0b47805581bf6180575
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2136, y: 1937}
+  - name: color - copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 3002
+      width: 103
+      height: 279
+    spriteID: c32bed0a22237894c800ed114a602b8c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2135, y: 2743}
+  - name: Base Pierna Derecha - copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 2034
+      width: 182
+      height: 315
+    spriteID: 6140a37529408d847931696e67accacf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1360, y: 1574}
+  - name: color - copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 2357
+      width: 180
+      height: 313
+    spriteID: d43b3a59dc5895940becc3609b47f36e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1359, y: 1896}
+  - name: Base Pierna Derecha - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1729
+      y: 3034
+      width: 124
+      height: 283
+    spriteID: 0e9b579836939e44786c13ae54680bf5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1130, y: 2770}
+  - name: color - copia 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1717
+      y: 3388
+      width: 123
+      height: 281
+    spriteID: 1b88fcc3306bc1c4b883c8bf2607ecb4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1118, y: 3122}
+  - name: Base mano Derecho - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2638
+      y: 720
+      width: 115
+      height: 83
+    spriteID: f1d9aa6a758506f479d2558ed904cdf1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1850, y: 65}
+  - name: color - copia 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2647
+      y: 1952
+      width: 103
+      height: 76
+    spriteID: 54c0eeef814f31a4b8e91d1ea1e921c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1856, y: 1291}
+  - name: Base Brazo Derecho - copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2509
+      y: 1430
+      width: 177
+      height: 204
+    spriteID: abbdc7bf40b460b46a0e22e1d6526842
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1853, y: 732}
+  - name: color - copia 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 805
+      y: 3065
+      width: 210
+      height: 232
+    spriteID: f3cd5a8b58a0c2547a3b5570539c85e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 146, y: 2395}
+  - name: Base Antebrazo Derecho - copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 3336
+      width: 168
+      height: 240
+    spriteID: 2f9aef95d2654bd4ebd1e696ac7acdb7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1320, y: 2515}
+  - name: color - copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2339
+      y: 1430
+      width: 162
+      height: 234
+    spriteID: 80c3d9074662346499664bcb0db326ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1779, y: 606}
+  - name: Chibi_Engine_CharacterBodyBase_DT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1080
+      height: 1920
+    spriteID: 14fc562daace2c34193f48d7572ff3cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1080, y: 1920}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: '[Merge]Weapon'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 194
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 55
+    spriteName: Capa 55
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 08d1145ecaab7e249a42ba77de4a7915
+    layerID: 193
+    mosaicPosition: {x: 4, y: 3312}
+  - name: Capa 57
+    spriteName: Capa 57
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ac246f546b116f749ac3e01cabb1955b
+    layerID: 192
+    mosaicPosition: {x: 1092, y: 1844}
+  - name: Capa 56
+    spriteName: Capa 56
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ce77e1fd1fbf8834993b62db40b0da4f
+    layerID: 191
+    mosaicPosition: {x: 1470, y: 2718}
+  - name: Capa 54
+    spriteName: Capa 54
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ce227f2dffc04ba49973a7f09949cf9c
+    layerID: 190
+    mosaicPosition: {x: 1092, y: 4}
+  - name: '[Merge]Nose'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 188
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 3 - copia
+    spriteName: Capa 3 - copia
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 9b07dac9dc9eaad42a6a0aaae81d4cf6
+    layerID: 187
+    mosaicPosition: {x: 2314, y: 1113}
+  - name: cara - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 155
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 3 - copia 2
+    spriteName: Capa 3 - copia 2
+    isGroup: 0
+    parentIndex: 7
+    spriteID: aba95c01240666842910ccc7e6384f20
+    layerID: 154
+    mosaicPosition: {x: 1807, y: 2299}
+  - name: '[Merge]Eyes1'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 152
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 34
+    spriteName: Capa 34
+    isGroup: 0
+    parentIndex: 9
+    spriteID: faa1ae8d855e82c4d82faa38b3fc4178
+    layerID: 151
+    mosaicPosition: {x: 1516, y: 2299}
+  - name: Capa 3
+    spriteName: Capa 3
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 00ad608d76bebb14abadec73432d2e91
+    layerID: 150
+    mosaicPosition: {x: 1877, y: 1152}
+  - name: Capa 33
+    spriteName: Capa 33
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 773ac8b6db10af0449c6696c95470635
+    layerID: 149
+    mosaicPosition: {x: 2089, y: 1113}
+  - name: Capa 32
+    spriteName: Capa 32
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 61ea958bd15a15f4d8275e5034f00895
+    layerID: 148
+    mosaicPosition: {x: 4, y: 4001}
+  - name: Capa 31
+    spriteName: Capa 31
+    isGroup: 0
+    parentIndex: 9
+    spriteID: dbd851304757bb14d83969f2fa24c1e1
+    layerID: 147
+    mosaicPosition: {x: 476, y: 4001}
+  - name: Capa 30
+    spriteName: Capa 30
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 28d2779e5ca2cc846ad5eea8d8e64de0
+    layerID: 146
+    mosaicPosition: {x: 2785, y: 4}
+  - name: Capa 15
+    spriteName: Capa 15
+    isGroup: 0
+    parentIndex: 9
+    spriteID: f70c2956e9b89044fadcc50dff643aa6
+    layerID: 145
+    mosaicPosition: {x: 2339, y: 556}
+  - name: '[Merge]Belt '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 143
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 13
+    spriteName: Capa 13
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 4567fe7afdf0af94f98ccdc594da8808
+    layerID: 142
+    mosaicPosition: {x: 2339, y: 1101}
+  - name: Capa 38
+    spriteName: Capa 38
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 35c363d730eb64044bde2d59b239ae5f
+    layerID: 141
+    mosaicPosition: {x: 2339, y: 905}
+  - name: Capa 20
+    spriteName: Capa 20
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 952cba38f6d36cc468dcd15460ad8d46
+    layerID: 140
+    mosaicPosition: {x: 2339, y: 1268}
+  - name: '[Merge]LGloves'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 138
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 12
+    spriteName: Capa 12
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 45b48e30d3f553b43a5e86f27423c3f6
+    layerID: 137
+    mosaicPosition: {x: 1877, y: 3978}
+  - name: Capa 39
+    spriteName: Capa 39
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 0da8ad15bcf365d43ac2f64f9ba03b32
+    layerID: 136
+    mosaicPosition: {x: 1698, y: 1091}
+  - name: Capa 21
+    spriteName: Capa 21
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 0190157127c6f0044be28c2e09e36019
+    layerID: 135
+    mosaicPosition: {x: 2617, y: 1268}
+  - name: ' [Merge]RGloves'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 133
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 11
+    spriteName: Capa 11
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 84da2e483a6f36046be7262ac8122020
+    layerID: 132
+    mosaicPosition: {x: 2509, y: 3289}
+  - name: Capa 40
+    spriteName: Capa 40
+    isGroup: 0
+    parentIndex: 25
+    spriteID: de70acef37d77144eb3065334af464df
+    layerID: 131
+    mosaicPosition: {x: 2622, y: 1101}
+  - name: Capa 22
+    spriteName: Capa 22
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 70c14de4639dc5644a38dada969e7942
+    layerID: 130
+    mosaicPosition: {x: 2509, y: 3916}
+  - name: '[Merge]trousers '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 128
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 7
+    spriteName: Capa 7
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 069fdd76b9cb1ac45bfb3780194922bb
+    layerID: 127
+    mosaicPosition: {x: 1092, y: 3911}
+  - name: Capa 41
+    spriteName: Capa 41
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 6d0b4484148f0b4438aaf731fb5ed698
+    layerID: 126
+    mosaicPosition: {x: 818, y: 2345}
+  - name: Capa 23
+    spriteName: Capa 23
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 380e0076aacd509448c05f60bf35f9ed
+    layerID: 125
+    mosaicPosition: {x: 2339, y: 720}
+  - name: '[Merge]Rshoe '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 123
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 10
+    spriteName: Capa 10
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 5cbbc119bb342c849bac78ddcffd8386
+    layerID: 122
+    mosaicPosition: {x: 2509, y: 3714}
+  - name: Capa 42
+    spriteName: Capa 42
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 43d4ce3a8ed19c546838410a550bc153
+    layerID: 121
+    mosaicPosition: {x: 2314, y: 1142}
+  - name: Capa 25
+    spriteName: Capa 25
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 7b7676be2d835944fbde07c732fdcb70
+    layerID: 120
+    mosaicPosition: {x: 1696, y: 1644}
+  - name: '[Merge]Rtrousers'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 118
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 8
+    spriteName: Capa 8
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 50d1b03bd4454be42bc049f8ae2fb51d
+    layerID: 117
+    mosaicPosition: {x: 1877, y: 1323}
+  - name: Capa 43
+    spriteName: Capa 43
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 6cbd75231f91f0140a95f09afce27690
+    layerID: 116
+    mosaicPosition: {x: 1877, y: 3584}
+  - name: Capa 24
+    spriteName: Capa 24
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 65ee38b96f96805499c408fba79503bf
+    layerID: 115
+    mosaicPosition: {x: 1686, y: 3746}
+  - name: '[Merge]Lshoe '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 113
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 9 - copia
+    spriteName: Capa 9 - copia
+    isGroup: 0
+    parentIndex: 41
+    spriteID: bef82de12dcfb3148a83a5d93dc3067f
+    layerID: 112
+    mosaicPosition: {x: 2509, y: 3513}
+  - name: Capa 27
+    spriteName: Capa 27
+    isGroup: 0
+    parentIndex: 41
+    spriteID: 9a983e0daac29f84eb1ff73e330d9ec5
+    layerID: 111
+    mosaicPosition: {x: 2606, y: 905}
+  - name: '[Merge]Ltrousers '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 109
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 9
+    spriteName: Capa 9
+    isGroup: 0
+    parentIndex: 44
+    spriteID: d08798d413176a04ba6b90b7753168af
+    layerID: 108
+    mosaicPosition: {x: 2089, y: 787}
+  - name: Capa 44
+    spriteName: Capa 44
+    isGroup: 0
+    parentIndex: 44
+    spriteID: 5dd3f507738eaa7469d6a6bc9080985a
+    layerID: 107
+    mosaicPosition: {x: 1877, y: 787}
+  - name: Capa 26
+    spriteName: Capa 26
+    isGroup: 0
+    parentIndex: 44
+    spriteID: cc04fdc4ed1fd1245b892d00be414076
+    layerID: 106
+    mosaicPosition: {x: 1470, y: 3746}
+  - name: '[Merge]UpperDress '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 104
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 4
+    spriteName: Capa 4
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 794872825fe24ae4b8b668850f2ce23a
+    layerID: 103
+    mosaicPosition: {x: 1092, y: 3185}
+  - name: Capa 37
+    spriteName: Capa 37
+    isGroup: 0
+    parentIndex: 48
+    spriteID: d6761c50fad77f74dbed2be59cedfd86
+    layerID: 102
+    mosaicPosition: {x: 1092, y: 2806}
+  - name: Capa 17
+    spriteName: Capa 17
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 8ecfb8091060fc24dbda0e2228fb8c30
+    layerID: 101
+    mosaicPosition: {x: 1092, y: 3551}
+  - name: '[Merge]Lsleeve'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 99
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 5
+    spriteName: Capa 5
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 46f62c780ff354f47a1660d43855d5e2
+    layerID: 98
+    mosaicPosition: {x: 1696, y: 1265}
+  - name: Capa 36
+    spriteName: Capa 36
+    isGroup: 0
+    parentIndex: 52
+    spriteID: 2d09dcc299caaa14790ecf38b1dc1657
+    layerID: 97
+    mosaicPosition: {x: 1092, y: 2359}
+  - name: Capa 18
+    spriteName: Capa 18
+    isGroup: 0
+    parentIndex: 52
+    spriteID: d02863d177c121a4ebefd218484677f3
+    layerID: 96
+    mosaicPosition: {x: 1877, y: 1660}
+  - name: '[Merge]Rsleeve '
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 94
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 6
+    spriteName: Capa 6
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 02b2de24b30a83243b94441c8685e296
+    layerID: 93
+    mosaicPosition: {x: 1470, y: 3388}
+  - name: Capa 35
+    spriteName: Capa 35
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 3d2d62c108d5cb34aa71937b5bd022da
+    layerID: 92
+    mosaicPosition: {x: 1470, y: 2359}
+  - name: Capa 19
+    spriteName: Capa 19
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 8e8f2646e8e45644b8c3a002b492b724
+    layerID: 91
+    mosaicPosition: {x: 1470, y: 3034}
+  - name: '[Merge]Hair 1'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 89
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 2
+    spriteName: Capa 2
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 2680b440477dd28438a7fb5c79a85afb
+    layerID: 88
+    mosaicPosition: {x: 4, y: 1932}
+  - name: Capa 29
+    spriteName: Capa 29
+    isGroup: 0
+    parentIndex: 60
+    spriteID: d4215ae170995934690adb47f22521a6
+    layerID: 87
+    mosaicPosition: {x: 1877, y: 556}
+  - name: Capa 28
+    spriteName: Capa 28
+    isGroup: 0
+    parentIndex: 60
+    spriteID: c13b0a90340c69f4c8abb18f35e2db06
+    layerID: 86
+    mosaicPosition: {x: 1877, y: 4}
+  - name: Capa 14
+    spriteName: Capa 14
+    isGroup: 0
+    parentIndex: 60
+    spriteID: bc2dcc0f58b1326438fe9dcfb5ee61cd
+    layerID: 85
+    mosaicPosition: {x: 4, y: 2628}
+  - name: '[Merge]Hair2'
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 83
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 2 - copia
+    spriteName: Capa 2 - copia
+    isGroup: 0
+    parentIndex: 65
+    spriteID: 9c9c1fd4a15bcff48882a47b6811bb98
+    layerID: 82
+    mosaicPosition: {x: 799, y: 3312}
+  - name: Capa 29 - copia
+    spriteName: Capa 29 - copia
+    isGroup: 0
+    parentIndex: 65
+    spriteID: a04a4629120bae04597bbcf2b972b696
+    layerID: 81
+    mosaicPosition: {x: 2322, y: 1142}
+  - name: Capa 28 - copia
+    spriteName: Capa 28 - copia
+    isGroup: 0
+    parentIndex: 65
+    spriteID: b317da8e82b80d04c9e94f0e7a0f1205
+    layerID: 80
+    mosaicPosition: {x: 805, y: 2628}
+  - name: Capa 14 - copia
+    spriteName: Capa 14 - copia
+    isGroup: 0
+    parentIndex: 65
+    spriteID: 91569b73bbe4db348b0b02b6adf23e0f
+    layerID: 79
+    mosaicPosition: {x: 799, y: 3696}
+  - name: Base - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 77
+    mosaicPosition: {x: 0, y: 0}
+  - name: cabeza - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 71
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Cabeza - copia
+    spriteName: Base Cabeza - copia
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 82f7f03335fdfd44f98ac95ef8174fa1
+    layerID: 70
+    mosaicPosition: {x: 1092, y: 684}
+  - name: color - copia
+    spriteName: color - copia
+    isGroup: 0
+    parentIndex: 71
+    spriteID: f6c852da129e602438f167deb9b9f5bb
+    layerID: 69
+    mosaicPosition: {x: 1092, y: 1265}
+  - name: Base Brazo Izquierdo - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 67
+    mosaicPosition: {x: 0, y: 0}
+  - name: manoR3 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 74
+    spriteID: 
+    layerID: 66
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base mano Derecho - copia
+    spriteName: Base mano Derecho - copia
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 6e8306dff9570ce4cb06776e976d3eff
+    layerID: 65
+    mosaicPosition: {x: 2638, y: 811}
+  - name: color - copia 2
+    spriteName: color - copia 2
+    isGroup: 0
+    parentIndex: 75
+    spriteID: d583d8104528d47428e00c7d2477c0c9
+    layerID: 64
+    mosaicPosition: {x: 1774, y: 2359}
+  - name: Carpeta 4 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 74
+    spriteID: 
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Brazo Derecho - copia
+    spriteName: Base Brazo Derecho - copia
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 4a1a27eaf3e07c0419557428504dedfc
+    layerID: 61
+    mosaicPosition: {x: 2509, y: 1952}
+  - name: color - copia 3
+    spriteName: color - copia 3
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 7ac09a47bac8c654db62abceefef48f5
+    layerID: 60
+    mosaicPosition: {x: 2509, y: 2761}
+  - name: Carpeta 5 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 74
+    spriteID: 
+    layerID: 58
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Antebrazo Derecho - copia
+    spriteName: Base Antebrazo Derecho - copia
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 3eacc35c2cb9d804789c742fc70e5b1a
+    layerID: 57
+    mosaicPosition: {x: 2509, y: 2486}
+  - name: color - copia 4
+    spriteName: color - copia 4
+    isGroup: 0
+    parentIndex: 81
+    spriteID: 8c5ea0beee226144889b9073d2338d17
+    layerID: 56
+    mosaicPosition: {x: 1698, y: 684}
+  - name: Carpeta 2 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Cuerpo - copia
+    spriteName: Base Cuerpo - copia
+    isGroup: 0
+    parentIndex: 84
+    spriteID: c5014f517963b2d45afbeab5b6deb85d
+    layerID: 44
+    mosaicPosition: {x: 2509, y: 1642}
+  - name: color - copia 5
+    spriteName: color - copia 5
+    isGroup: 0
+    parentIndex: 84
+    spriteID: d4755a5b5de1450498d25994ac6892aa
+    layerID: 43
+    mosaicPosition: {x: 2509, y: 1797}
+  - name: torso - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 41
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Cuerpo - copia 2
+    spriteName: Base Cuerpo - copia 2
+    isGroup: 0
+    parentIndex: 87
+    spriteID: 986f4a8d9cd68ad44b44d6c85dd92e5e
+    layerID: 40
+    mosaicPosition: {x: 1516, y: 1844}
+  - name: color - copia 6
+    spriteName: color - copia 6
+    isGroup: 0
+    parentIndex: 87
+    spriteID: dc06d6a2596ea5b418e9fbc1d879085e
+    layerID: 39
+    mosaicPosition: {x: 818, y: 1932}
+  - name: pierna1 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 37
+    mosaicPosition: {x: 0, y: 0}
+  - name: pierna1 - copia 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 90
+    spriteID: 
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Pierna Izquierda - copia
+    spriteName: Base Pierna Izquierda - copia
+    isGroup: 0
+    parentIndex: 91
+    spriteID: 675f571a129408d42b4a266bfcedc60e
+    layerID: 35
+    mosaicPosition: {x: 1877, y: 2678}
+  - name: color - copia 7
+    spriteName: color - copia 7
+    isGroup: 0
+    parentIndex: 91
+    spriteID: c5d94f00d899ecc4c8e6cf2b05ca1310
+    layerID: 34
+    mosaicPosition: {x: 1877, y: 3007}
+  - name: pierna1 - copia 3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 90
+    spriteID: 
+    layerID: 32
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Pierna Izquierda - copia 2
+    spriteName: Base Pierna Izquierda - copia 2
+    isGroup: 0
+    parentIndex: 94
+    spriteID: 810f7194acbad0b47805581bf6180575
+    layerID: 31
+    mosaicPosition: {x: 2509, y: 2195}
+  - name: color - copia 8
+    spriteName: color - copia 8
+    isGroup: 0
+    parentIndex: 94
+    spriteID: c32bed0a22237894c800ed114a602b8c
+    layerID: 30
+    mosaicPosition: {x: 2509, y: 3002}
+  - name: pierna2 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 27
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Pierna Derecha - copia
+    spriteName: Base Pierna Derecha - copia
+    isGroup: 0
+    parentIndex: 97
+    spriteID: 6140a37529408d847931696e67accacf
+    layerID: 26
+    mosaicPosition: {x: 1877, y: 2034}
+  - name: color - copia 9
+    spriteName: color - copia 9
+    isGroup: 0
+    parentIndex: 97
+    spriteID: d43b3a59dc5895940becc3609b47f36e
+    layerID: 25
+    mosaicPosition: {x: 1877, y: 2357}
+  - name: pierna2 - copia 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Pierna Derecha - copia 2
+    spriteName: Base Pierna Derecha - copia 2
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 0e9b579836939e44786c13ae54680bf5
+    layerID: 22
+    mosaicPosition: {x: 1729, y: 3034}
+  - name: color - copia 10
+    spriteName: color - copia 10
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 1b88fcc3306bc1c4b883c8bf2607ecb4
+    layerID: 21
+    mosaicPosition: {x: 1717, y: 3388}
+  - name: Base Brazo Derecho - copia 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 70
+    spriteID: 
+    layerID: 19
+    mosaicPosition: {x: 0, y: 0}
+  - name: mano - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 103
+    spriteID: 
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base mano Derecho - copia 2
+    spriteName: Base mano Derecho - copia 2
+    isGroup: 0
+    parentIndex: 104
+    spriteID: f1d9aa6a758506f479d2558ed904cdf1
+    layerID: 17
+    mosaicPosition: {x: 2638, y: 720}
+  - name: color - copia 11
+    spriteName: color - copia 11
+    isGroup: 0
+    parentIndex: 104
+    spriteID: 54c0eeef814f31a4b8e91d1ea1e921c9
+    layerID: 16
+    mosaicPosition: {x: 2647, y: 1952}
+  - name: Carpeta 9 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 103
+    spriteID: 
+    layerID: 14
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Brazo Derecho - copia 3
+    spriteName: Base Brazo Derecho - copia 3
+    isGroup: 0
+    parentIndex: 107
+    spriteID: abbdc7bf40b460b46a0e22e1d6526842
+    layerID: 13
+    mosaicPosition: {x: 2509, y: 1430}
+  - name: color - copia 12
+    spriteName: color - copia 12
+    isGroup: 0
+    parentIndex: 107
+    spriteID: f3cd5a8b58a0c2547a3b5570539c85e6
+    layerID: 12
+    mosaicPosition: {x: 805, y: 3065}
+  - name: Carpeta 8 - copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 103
+    spriteID: 
+    layerID: 10
+    mosaicPosition: {x: 0, y: 0}
+  - name: Base Antebrazo Derecho - copia 2
+    spriteName: Base Antebrazo Derecho - copia 2
+    isGroup: 0
+    parentIndex: 110
+    spriteID: 2f9aef95d2654bd4ebd1e696ac7acdb7
+    layerID: 9
+    mosaicPosition: {x: 1877, y: 3336}
+  - name: color - copia 13
+    spriteName: color - copia 13
+    isGroup: 0
+    parentIndex: 110
+    spriteID: 80c3d9074662346499664bcb0db326ce
+    layerID: 8
+    mosaicPosition: {x: 2339, y: 1430}
+  - name: Chibi_Engine_CharacterBodyBase_DT
+    spriteName: Chibi_Engine_CharacterBodyBase_DT
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 14fc562daace2c34193f48d7572ff3cf
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Chibi_Engine_CharacterBodyBase_GD Texture
+  prefabAssetName: Chibi_Engine_CharacterBodyBase_GD Prefab
+  spriteLibAssetName: Chibi_Engine_CharacterBodyBase_GD Sprite Lib
+  secondarySpriteTextures: []
