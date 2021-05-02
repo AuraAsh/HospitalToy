@@ -48,7 +48,17 @@ public class SaveManager : MonoBehaviour
 
     private void Screenshot()
     {
-        
+        StartCoroutine(CaptureIt());
+    }
+
+    IEnumerator CaptureIt()
+    {
+        string timeStamp = System.DateTime.Now.ToString("dd-MM-yyyy-HH-mm-ss");
+        string fileName = "Screenshot" + timeStamp + ".png";
+        string pathToSave = fileName;
+        ScreenCapture.CaptureScreenshot(pathToSave);
+        yield return new WaitForEndOfFrame();
+        Debug.Log("SCREENSHOT");
     }
 
     private void SaveScreenshot()

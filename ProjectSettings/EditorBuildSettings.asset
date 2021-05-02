@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ToyHospital/Scenes/Level 1.unity
     guid: 82ffe186554822e4cb68ee38f0fcad88
+  - enabled: 1
+    path: Assets/ToyHospital/Scenes/Gallery.unity
+    guid: 6b694456cc0d60b45a5de6926fe9a184
   m_configObjects: {}

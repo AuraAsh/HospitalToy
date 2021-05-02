@@ -12,6 +12,12 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+
+    public void Gallery()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(3);
+    }
     public void ExitGame()
     {
         Debug.Log("Exit");
