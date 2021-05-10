@@ -2,17 +2,16 @@
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Collections.Generic;
-using System.Collections;
 
 public class SaveManager : MonoBehaviour
 {
     public List<ChangerPlayer> changer;
-    public GameObject canvas;
+    //public GameObject canvas;
 
     private void Awake()
     {
         Load();
-        canvas.SetActive(true);
+        //canvas.SetActive(true);
     }
 
     public void Save()
@@ -28,13 +27,13 @@ public class SaveManager : MonoBehaviour
             formatter.Serialize(file, item.parameter); //Guarda toda la clase
         }
 
-        GetScreenshot();
+        //GetScreenshot();
 
         file.Close(); //Evita errores o fugas de memoria
         
     }
 
-    private void GetScreenshot()
+    /*private void GetScreenshot()
     {
         //Desactivar el canvas
         canvas.SetActive(false);
@@ -71,7 +70,7 @@ public class SaveManager : MonoBehaviour
     {
         yield return new WaitForSeconds(1f);
         canvas.SetActive(true);
-    }
+    }*/
 
     public void Load()
     {
